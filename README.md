@@ -22,13 +22,7 @@ Matrisin her elemanı bir hücredir.
 
 Örnek: 1 ve 0'lardan oluşan 5 x 5' lik matris 
 
-1 0 1 1 0
-0 0 0 1 0
-1 1 0 0 1
-0 0 1 0 1
-1 1 0 1 1
-
-
+<img width="84" alt="Screen Shot 2020-03-16 at 00 08 33" src="https://user-images.githubusercontent.com/2838457/76711010-1313d200-671d-11ea-80f0-5842d3036e42.png">
 
 Her hücre üstündeki, altındaki, sağındaki ve solundaki komşu ile etkileşim halindedir.
 Bu etkileşim aşağıdaki kurallar ile tarif edilmiştir.
@@ -45,32 +39,22 @@ Yukarıdaki bilgiler ışığında verilen matrisin bir sonraki durumda hangi de
 
 Input: 
 
-0 1 0
-0 0 1
-1 1 1
-0 0 0
+<img width="55" alt="Screen Shot 2020-03-16 at 00 08 40" src="https://user-images.githubusercontent.com/2838457/76711011-1444ff00-671d-11ea-8006-26a294e73c21.png">
 
 Output: 
 
-0 0 0
-1 0 1
-0 1 1
-0 1 0
+<img width="56" alt="Screen Shot 2020-03-16 at 00 08 47" src="https://user-images.githubusercontent.com/2838457/76711012-14dd9580-671d-11ea-94c8-da35c0493e64.png">
 
 
 **Soru2:**
 
 Girdi:
 
-1  2  3  4  5
-16 17 18 19 6
-15 24 25 20 7
-14 23 22 21 8
-13 12 11 10 9
+<img width="130" alt="Screen Shot 2020-03-16 at 00 23 10" src="https://user-images.githubusercontent.com/2838457/76711013-14dd9580-671d-11ea-9157-93452af607cc.png">
 
 Çıktı:
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+<img width="485" alt="Screen Shot 2020-03-16 at 00 23 18" src="https://user-images.githubusercontent.com/2838457/76711014-160ec280-671d-11ea-8493-4f574e8d955b.png">
 
 Yukarıdaki matrisi Spiral bir biçimde ekrana yazdıran algoritmayı yazınız. Matrisi sabit şekilde oluşturabilirsiniz. Örnek girdi ve çıktı yukarıda yer almaktadır.
 

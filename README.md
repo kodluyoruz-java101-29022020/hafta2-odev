@@ -84,12 +84,10 @@ N x M ile M x T boyutlarında 0-10 arası rastgele sayılardan oluşan iki matri
 
 N boyutunda 0-10 arası rastgele sayılardan oluşan bir dizi tanımlayınız. Bu dizi içinde mükerrer olan elemanları ekrana yazdıran algoritmayı tasarlayınız.
 
-Örnek: [ 2, 4, 5, 11, 33, 2, 5, 55, 100, 1 ]
+Örnek: { 2, 4, 5, 11, 33, 2, 5, 55, 100, 1 }
 
 Örnek çıktı:
 2
 5
 
 **Bu bir sınav değildir! Yeni sloganımız ==> Geliştirmek için kodluyoruz ... :))**
-
-

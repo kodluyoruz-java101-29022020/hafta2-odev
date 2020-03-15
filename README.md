@@ -27,10 +27,10 @@ Matrisin her elemanı bir hücredir.
 Her hücre üstündeki, altındaki, sağındaki ve solundaki komşu ile etkileşim halindedir.
 Bu etkileşim aşağıdaki kurallar ile tarif edilmiştir.
 
-1- Canlı hücre etrafında 2'den az canlı hücre varsa ölür. (1'den 0'a dönüşür)
-2- Canlı hücre etrafında 2 veya 3 canlı hücre varsa yaşamaya devam eder. (1 değeri almaya devam eder)
-3- Canlı hücre etrafında 3'ten fazla canlı hücre varsa ölür. (1'den 0'a dönüşür)
-4- Ölü bir hücre etrafında 3 tane canlı hücre varsa canlı hale gelir. (0'dan 1'e dönüşür)
+- 1- Canlı hücre etrafında 2'den az canlı hücre varsa ölür. (1'den 0'a dönüşür)
+- 2- Canlı hücre etrafında 2 veya 3 canlı hücre varsa yaşamaya devam eder. (1 değeri almaya devam eder)
+- 3- Canlı hücre etrafında 3'ten fazla canlı hücre varsa ölür. (1'den 0'a dönüşür)
+- 4- Ölü bir hücre etrafında 3 tane canlı hücre varsa canlı hale gelir. (0'dan 1'e dönüşür)
 
 
 Yukarıdaki bilgiler ışığında verilen matrisin bir sonraki durumda hangi değerlerden oluşacağını hesaplayan bir fonksiyon yazınız.
